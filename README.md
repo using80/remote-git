@@ -6,3 +6,5 @@
 이슈를 할당하고, pull request를 생성하려고 합니다.
 
 아이고... 힘드루 ㅜㅜㅜ
+
+asdfadfasdfadfadf
